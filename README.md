@@ -5,7 +5,7 @@
 
 ## My name is Renan Medeiros
 (ReactJS | NodeJS | Golang | GCP | Javascript | Typescript | HTML | CSS)
-- 👩‍💻 Software Enginner @[Thoughtworks](https://www.thoughtworks.com/)
+- 👩‍💻 Software Enginner @[Cheesecake](https://cheesecakelabs.com/)
 - 🎓 Graduated in Information Systems
 - 💡 Currently studying Golang and Google Cloud Platform (GCP) and **how to build scalable and cheap solutions**
 
